@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"creazionali","c":"Singleton","l":"GetIstance()"},{"p":"creazionali","c":"Singleton","l":"metodo()"}]
